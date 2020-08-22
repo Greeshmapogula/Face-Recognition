@@ -12,7 +12,7 @@ Here are few applicatios of Face Recognition:
 4. Advertising
 5. Healthcare
 
-<img src='https://drive.google.com/file/d/1ZP3KYynv75Y319hUWbHMWAPOr4sTD8Au/view?usp=sharing'>
+<img src='https://miro.medium.com/max/896/1*MnbUSSXG1IDS9mXC0H8cKQ.png'>
 
 ## Face Detection vs Face Recognition ##
 
