@@ -12,7 +12,7 @@ Here are few applicatios of Face Recognition:
 4. Advertising
 5. Healthcare
 
-![alt text](https://drive.google.com/thumbnail?id=1ZP3KYynv75Y319hUWbHMWAPOr4sTD8Au)
+<img src="http://drive.google.com/uc?export=1ZP3KYynv75Y319hUWbHMWAPOr4sTD8Au" alt="Face Recognition Example Pic">
 
 
 ## Face Detection vs Face Recognition ##
@@ -27,11 +27,11 @@ Inorder to get this project working on system. We need to install the following:
 1. Python 3 - 64 Bit
 2. Visual Studio - 2019 (Community Edition)
 3. Modules:
-        * cmake
-        * dlib
-        * face recognition
-        * numpy
-        * openCV - Python
+* cmake
+* dlib
+* face recognition
+* numpy
+* openCV - Python
 
 
 
