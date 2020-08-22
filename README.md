@@ -12,13 +12,27 @@ Here are few applicatios of Face Recognition:
 4. Advertising
 5. Healthcare
 
-<img src='https://miro.medium.com/max/896/1*MnbUSSXG1IDS9mXC0H8cKQ.png'>
+![alt text](https://drive.google.com/thumbnail?id=1ZP3KYynv75Y319hUWbHMWAPOr4sTD8Au)
+
 
 ## Face Detection vs Face Recognition ##
 
 **Face Detection** is identifying does the given picture has any face or not whereas **Face Recognition** is finding out whose face is there in the picture this is done by comparing the faces in the picture with the faces in database.
 
 As we have seen the difference between the face recognition ad face detection this project works on *Face Recognition*.
+
+### Prerequisites ###
+
+Inorder to get this project working on system. We need to install the following:
+1. Python 3 - 64 Bit
+2. Visual Studio - 2019 (Community Edition)
+3. Modules:
+        * cmake
+        * dlib
+        * face recognition
+        * numpy
+        * openCV - Python
+
 
 
 
