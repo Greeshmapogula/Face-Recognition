@@ -12,7 +12,7 @@ Here are few applicatios of Face Recognition:
 4. Advertising
 5. Healthcare
 
-<img src="http://drive.google.com/uc?export=view&id=1ZP3KYynv75Y319hUWbHMWAPOr4sTD8Au" alt="Face Recognition Example Pic">
+<img src="https://github.com/Greeshmapogula/Face-Recognition/blob/master/facerec_example.png" alt="Face Recognition Example Pic">
 
 
 ## Face Detection vs Face Recognition ##
@@ -223,7 +223,7 @@ I have given the following faces as reference.
 
 This is the final Ouput to the test image I have given. 
 
-<img src="http://drive.google.com/uc?export=view&id=1ZP3KYynv75Y319hUWbHMWAPOr4sTD8Au" alt="Output Pic">
+<img src="https://github.com/Greeshmapogula/Face-Recognition/blob/master/output.png" alt="Output Pic">
 
 
 Yes!! We are Done.
@@ -233,7 +233,7 @@ Yes!! We are Done.
 2. If the images are not displaying here please refer the files. I have also uploaded them.
 
 
-                                                       ****** THANK YOU ******
+                                 ****** THANK YOU ******
 
 
 
