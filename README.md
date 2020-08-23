@@ -219,7 +219,7 @@ python face_rec.py
 
 I have given the following faces as reference.
 
-<img src="http://drive.google.com/uc?export=view&id=1ZP3KYynv75Y319hUWbHMWAPOr4sTD8Au" alt="Faces Pic">
+<img src="https://github.com/Greeshmapogula/Face-Recognition/blob/master/Faces.png" alt="Faces Pic">
 
 This is the final Ouput to the test image I have given. 
 
